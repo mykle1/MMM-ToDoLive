@@ -1,0 +1,10 @@
+/* Copy and paste any or all of these css entries into your custom.css file inside your
+ * css folder.
+ */
+
+
+.MMM-ToDoLive .text {
+ 	font-size: 1em;
+ 	font-weight: bold;
+  color: white;
+ }
