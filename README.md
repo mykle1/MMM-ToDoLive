@@ -2,7 +2,7 @@
 
 ToDo list, reminders, leaves messages, insults, etc., with a unique twist.
 
-You can update the mirror display in real time (Live), as it's running, without reloading.
+You can update the mirror display in real time (Live), as it's running, without quitting or reloading MM.
 
 ## Video example
 
