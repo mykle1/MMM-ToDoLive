@@ -33,7 +33,7 @@ A bluetooth/wireless keyboard for text entry. (Wired will work but that's not as
 * `git clone https://github.com/mykle1/MMM-ToDoLive` into the `~/MagicMirror/modules` directory.
 
 ## Config.js entry and options
-
+```
 {
     disabled: false,
     module: "MMM-ToDoLive",
@@ -52,6 +52,7 @@ A bluetooth/wireless keyboard for text entry. (Wired will work but that's not as
         myHeader: "Shopping List",
     }
 },
+```
 ## How to use it!
 
 * Click the default text to enter edit mode.
