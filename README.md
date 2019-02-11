@@ -14,13 +14,15 @@ https://www.youtube.com/watch?v=kNq-WUlPFo0&feature=youtu.be
 
 * You can use multiple instances by simply adding another config entry.
 
-* Each instance can have its own heading.
+* Each instance can have its own heading. Headers are self-centering.
 
 * Works well in all regions. Make it as wide or as tall as you like it.
 
 * Will be added to Hello-Lucy as a default module.
 
 * Caveat: Multiple instances can not use different css files (unless I can figure that out).
+
+* Caveat #2: Entries will not survive a restart. I'm working on that! Sheeeesh! :-)
 
 ## Requirements and recommendations
 
